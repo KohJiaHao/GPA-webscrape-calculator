@@ -1,0 +1,386 @@
+<table cellspacing="0" cellpadding="3" border="1" width="660">
+	<tbody><tr class="wes_table_heading">
+		<td colspan="7">
+		<table cellpadding="3" cellspacing="0" border="0">
+			<tbody><tr>
+				<td><strong>Course:</strong></td>
+				<td><strong>BACHELOR OF ENGINEERING (HONOURS) (E3001)</strong></td>
+			</tr>
+
+			<tr>
+				<td><strong>Course status:</strong></td>
+				<td><strong>COMPLETED</strong></td>
+			</tr>
+
+			<tr>
+				<td><strong>Award title:</strong></td>
+				<td><strong>Bachelor of Software Engineering (Honours)</strong></td>
+			</tr>
+
+
+			<tr>
+				<td><strong>Course grade:</strong></td>
+				<td><strong>H1</strong></td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+
+	<tr class="wes_table_heading">
+		<th colspan="2" align="center">Category</th>
+		<!--<th colspan="3" align="center">Title</th>-->
+		<th colspan="2" align="center">Title</th>
+		<th align="center">Code</th>
+		<th colspan="2" align="center">Status</th>
+	</tr>
+	<tr>
+		<td colspan="2">SPECIALISATION</td>
+		<!--<td colspan="3">Civil engineering</td>-->
+		<td colspan="2">Civil engineering</td>
+		<td>CIVILENG08</td>
+		<td colspan="2">UNCONFIRMED</td>
+	</tr>
+	<tr>
+		<td colspan="2">SPECIALISATION</td>
+		<!--<td colspan="3">Software engineering</td>-->
+		<td colspan="2">Software engineering</td>
+		<td>SFTWRENG01</td>
+		<td colspan="2">COMPLETED</td>
+	</tr>
+
+
+	<tr class="wes_table_heading">
+		<th>Year</th>
+		<th>Unit&nbsp;code</th>
+		<!--<th>Unit&nbsp;level</th> -->
+		<th>Unit&nbsp;title</th>
+		<th>Teaching&nbsp;period</th>
+		<th>Credit&nbsp;points</th>
+		<th>Mark</th>
+		<th>Grade</th>
+	</tr>
+
+
+	<tr>
+		<td>2020</td>
+		<td>ENG1001</td>
+<!--		<td align="center">1</td>-->
+		<td class="unittitle">ENGINEERING DESIGN: LIGHTER, FASTER, STRONGER</td>
+		<td align="center">2</td>
+		<td align="center">6</td>
+
+		<td align="center">90</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2020</td>
+		<td>ENG1005</td>
+<!--		<td align="center">1</td>-->
+		<td class="unittitle">ENGINEERING MATHEMATICS</td>
+		<td align="center">2</td>
+		<td align="center">6</td>
+
+		<td align="center">92</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2020</td>
+		<td>ENG1021</td>
+<!--		<td align="center">1</td>-->
+		<td class="unittitle">SPATIAL COMMUNICATION IN ENGINEERING</td>
+		<td align="center">2</td>
+		<td align="center">6</td>
+
+		<td align="center">70</td>
+		<td align="center">D</td>
+	</tr>
+	<tr>
+		<td>2020</td>
+		<td>ENG1060</td>
+<!--		<td align="center">1</td>-->
+		<td class="unittitle">COMPUTING FOR ENGINEERS</td>
+		<td align="center">2</td>
+		<td align="center">6</td>
+
+		<td align="center">90</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2021</td>
+		<td>ENG1002</td>
+<!--		<td align="center">1</td>-->
+		<td class="unittitle">ENGINEERING DESIGN: CLEANER, SAFER, SMARTER</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">87</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2021</td>
+		<td>ENG1003</td>
+<!--		<td align="center">1</td>-->
+		<td class="unittitle">ENGINEERING MOBILE APPS</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">87</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2021</td>
+		<td>ENG1811</td>
+<!--		<td align="center">1</td>-->
+		<td class="unittitle">ENGINEERING DESIGN C: AUTOMATED, INTEGRATED AND CONNECTED WORLD</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">69</td>
+		<td align="center">C</td>
+	</tr>
+	<tr>
+		<td>2021</td>
+		<td>ENG2801</td>
+<!--		<td align="center">2</td>-->
+		<td class="unittitle">LEADERSHIP AND INNOVATION</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">73</td>
+		<td align="center">D</td>
+	</tr>
+	<tr>
+		<td>2021</td>
+		<td>FIT2085</td>
+<!--		<td align="center">2</td>-->
+		<td class="unittitle">INTRODUCTION TO COMPUTER SCIENCE FOR ENGINEERS</td>
+		<td align="center">2</td>
+		<td align="center">6</td>
+
+		<td align="center">90</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2021</td>
+		<td>FIT2099</td>
+<!--		<td align="center">2</td>-->
+		<td class="unittitle">OBJECT ORIENTED DESIGN AND IMPLEMENTATION</td>
+		<td align="center">2</td>
+		<td align="center">6</td>
+
+		<td align="center">90</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2021</td>
+		<td>FIT2101</td>
+<!--		<td align="center">2</td>-->
+		<td class="unittitle">SOFTWARE ENGINEERING PROCESS AND MANAGEMENT</td>
+		<td align="center">2</td>
+		<td align="center">6</td>
+
+		<td align="center">73</td>
+		<td align="center">D</td>
+	</tr>
+	<tr>
+		<td>2021</td>
+		<td>FIT2107</td>
+<!--		<td align="center">2</td>-->
+		<td class="unittitle">SOFTWARE QUALITY AND TESTING</td>
+		<td align="center">2</td>
+		<td align="center">6</td>
+
+		<td align="center">83</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2022</td>
+		<td>FIT2004</td>
+<!--		<td align="center">2</td>-->
+		<td class="unittitle">ALGORITHMS AND DATA STRUCTURES</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">86</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2022</td>
+		<td>FIT3077</td>
+<!--		<td align="center">3</td>-->
+		<td class="unittitle">SOFTWARE ENGINEERING: ARCHITECTURE AND DESIGN</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">82</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2022</td>
+		<td>FIT3171</td>
+<!--		<td align="center">3</td>-->
+		<td class="unittitle">DATABASES</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">93</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2022</td>
+		<td>MAT1830</td>
+<!--		<td align="center">1</td>-->
+		<td class="unittitle">DISCRETE MATHEMATICS FOR COMPUTER SCIENCE</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">92</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2022</td>
+		<td>FIT4042</td>
+<!--		<td align="center">4</td>-->
+		<td class="unittitle">INDUSTRY-BASED LEARNING</td>
+		<td align="center">2</td>
+		<td align="center">18</td>
+
+		<td align="center">83</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2022</td>
+		<td>FIT3175</td>
+<!--		<td align="center">3</td>-->
+		<td class="unittitle">USABILITY</td>
+		<td align="center">SA-02</td>
+		<td align="center">6</td>
+
+		<td align="center">78</td>
+		<td align="center">D</td>
+	</tr>
+	<tr>
+		<td>2023</td>
+		<td>FIT3170</td>
+<!--		<td align="center">3</td>-->
+		<td class="unittitle">SOFTWARE ENGINEERING PRACTICE</td>
+		<td align="center">FY</td>
+		<td align="center">12</td>
+
+		<td align="center">82</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2023</td>
+		<td>FIT3159</td>
+<!--		<td align="center">3</td>-->
+		<td class="unittitle">COMPUTER ARCHITECTURE</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">82</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2023</td>
+		<td>FIT3182</td>
+<!--		<td align="center">3</td>-->
+		<td class="unittitle">BIG DATA MANAGEMENT AND PROCESSING</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">93</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2023</td>
+		<td>FIT4701</td>
+<!--		<td align="center">4</td>-->
+		<td class="unittitle">FINAL YEAR SOFTWARE ENGINEERING PROJECT A</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">78</td>
+		<td align="center">D</td>
+	</tr>
+	<tr>
+		<td>2023</td>
+		<td>FIT2100</td>
+<!--		<td align="center">2</td>-->
+		<td class="unittitle">OPERATING SYSTEMS</td>
+		<td align="center">2</td>
+		<td align="center">6</td>
+
+		<td align="center">90</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2023</td>
+		<td>FIT4702</td>
+<!--		<td align="center">4</td>-->
+		<td class="unittitle">FINAL YEAR SOFTWARE ENGINEERING PROJECT B</td>
+		<td align="center">2</td>
+		<td align="center">6</td>
+
+		<td align="center">82</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2023</td>
+		<td>FIT5215</td>
+<!--		<td align="center">5</td>-->
+		<td class="unittitle">DEEP LEARNING</td>
+		<td align="center">2</td>
+		<td align="center">6</td>
+
+		<td align="center">79</td>
+		<td align="center">D</td>
+	</tr>
+	<tr>
+		<td>2024</td>
+		<td>FIT2081</td>
+<!--		<td align="center">2</td>-->
+		<td class="unittitle">MOBILE APPLICATION DEVELOPMENT</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">98</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2024</td>
+		<td>FIT2093</td>
+<!--		<td align="center">2</td>-->
+		<td class="unittitle">CYBERSECURITY TOOLS AND TECHNIQUES</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">91</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2024</td>
+		<td>FIT3152</td>
+<!--		<td align="center">3</td>-->
+		<td class="unittitle">DATA ANALYTICS</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">91</td>
+		<td align="center">HD</td>
+	</tr>
+	<tr>
+		<td>2024</td>
+		<td>FIT4165</td>
+<!--		<td align="center">4</td>-->
+		<td class="unittitle">COMPUTER NETWORKS</td>
+		<td align="center">1</td>
+		<td align="center">6</td>
+
+		<td align="center">85</td>
+		<td align="center">HD</td>
+	</tr>
+
+
+
+</tbody></table>
